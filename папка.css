@@ -1,0 +1,27 @@
+ * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ .quti {
+    display: flex;
+    padding: 20px 20px;
+ }
+ .DIV {
+    box-shadow: 7px 7px 7px 7px rgb(194, 194, 194);
+ }
+ .lorem {
+    display: flex;
+ }
+ button {
+    padding: 15px 55px;
+    background-color: chartreuse;
+    border-radius: 15px;
+    color: black;
+ }
+ button:hover {
+    background-image: linear-gradient( yellow, black, yellowgreen, blue );
+ }
+ .DIV:hover {
+    transform: scale( 0.9 );
+ }
